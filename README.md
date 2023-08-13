@@ -28,6 +28,7 @@
 - [Ahaar](#-Ahaar)
 - [Table of contents🧭 ](#-table-of-contents)
 - [Introduction🚀](#Introduction)
+- [Usage](#Usage)
 - [Local Implementation](#-Local-Implementation-)
 - [Technologies Used📫](#-Technologies-Used-)
 - [Features](#Features)
@@ -92,16 +93,21 @@ Our platform motivates volunteers to participate in food redistribution by rewar
 ### Merchandise Exchange Platform
 Volunteers can exchange their earned coins for sustainable merchandise, fostering a culture of sustainability and encouraging ongoing engagement.
 
-### Proximity Alerts
-Ahaar notifies users when they are in close proximity to surplus food providers, enhancing convenience and facilitating real-time decision-making.
-
-### User-Generated Feedback
-We prioritize user feedback, allowing individuals to rate surplus food providers and provide valuable insights for continuous improvement.
-
 ### Advanced Coin Management
 Our system ensures transparent and efficient coin management, tracking volunteer contributions and facilitating smooth merchandise transactions.
 
 
+## Usage 
+
+- Access the Application: Open your web browser and navigate to the [Ahaar](https://aahar-katy-hacks.vercel.app/) Application to start using the platform.
+
+- Sign Up and Add Food: Once on the website, sign up to create an account. As a registered user, you can contribute to reducing food wastage by adding details of leftover food items.
+
+- Earn Coins: Each time you add food, you will earn 100 coins. These coins can be accumulated and used for exciting rewards.
+
+- Explore the Merchandise Store: Visit the [MerchX Store](https://merchxstore.netlify.app/) to explore a variety of eco-friendly merchandise.
+
+- Redeem Your Coins: Exchange your earned coins for unique merchandise codes through the reward portal. You can use these codes to purchase merchandise items.
 
 ## `Screenshots and Video`
 
