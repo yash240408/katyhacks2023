@@ -17,7 +17,7 @@
 </p>
 
   
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=QUARTZO+&pause=1000&color=F72288&width=435&lines=Built+for+Katy+Youth+Hacks+2023)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=QUARTZO+&pause=1000&color=F72288&width=435&lines=Build+for+Katy+Youth+Hacks+2023)](https://git.io/typing-svg)
  
  
 </div>
@@ -78,8 +78,7 @@ npm start
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=TRIAL+CODE++-+%22EXAMPLE123%22)](https://git.io/typing-svg)   
 
-Try the above code (HERE)[https://merchxstore.netlify.app/]
-
+Try the above code [HERE](https://merchxstore.netlify.app/)
 
 ### Sustainable Food Redistribution
 Ahaar tackles food wastage by connecting surplus food providers with those in need, ensuring that excess food finds its way to hungry individuals instead of being discarded.
@@ -105,6 +104,8 @@ Our system ensures transparent and efficient coin management, tracking volunteer
 
 
 ## `Screenshots and Video`
+
+
 
 
 
