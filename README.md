@@ -13,7 +13,7 @@
 
 <p align="center">
 <img   src="https://github.com/vaibhavx42/katyhack2023/assets/110530263/7d6e5d07-b99d-43ba-8967-c64e2483c10f">
-">
+
 </p>
 
   
