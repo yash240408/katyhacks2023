@@ -17,7 +17,7 @@
 </p>
 
   
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=QUARTZO+&pause=1000&color=F72288&width=435&lines=Built+for+Katy+Youth+Hacks+2023)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=QUARTZO+&pause=1000&color=F72288&width=435&lines=Build+for+Katy+Youth+Hacks+2023)](https://git.io/typing-svg)
  
  
 </div>
